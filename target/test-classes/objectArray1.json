@@ -1,0 +1,54 @@
+{
+    "page": 2,
+    "per_page": 6,
+    "total": 17869,
+    "total_pages": 2979,
+    "data": [
+        {
+            "id": 661,
+            "flightName": "Indico",
+            "Country": "Dubai",
+            "Destinations": "67",
+            "URL": "https:\/\/en.wikipedia.org\/wiki\/Indico"
+        },
+        {
+            "id": 663,
+            "flightName": "AirIndia",
+            "Country": "India",
+            "Destinations": "31",
+            "URL": "https:\/\/en.wikipedia.org\/wiki\/Air_India"
+        },
+        {
+            "id": 667,
+            "flightName": "AirCanada",
+            "Country": "Canada",
+            "Destinations": "78",
+            "URL": "https:\/\/en.wikipedia.org\/wiki\/Air_India"
+        },
+        {
+            "id": 674,
+            "flightName": "AirIndia",
+            "Country": "India",
+            "Destinations": "87",
+            "URL": "https:\/\/en.wikipedia.org\/wiki\/Air_India"
+        },
+        {
+            "id": 695,
+            "flightName": "AirCanda",
+            "Country": "India",
+            "Destinations": "87",
+            "URL": "https:\/\/en.wikipedia.org\/wiki\/Air_India"
+        },
+        {
+            "id": 699,
+            "flightName": "AirIndia",
+            "Country": "India",
+            "Destinations": "87",
+            "URL": "https:\/\/en.wikipedia.org\/wiki\/Air_India"
+        }
+    ],
+    "support": {
+        "url": "https:\/\/www.omrbranch.com",
+        "text": "For Joining Automation Course, Please Contact-Velmurugan 9944152058"
+    }
+}

@@ -1,0 +1,39 @@
+{
+	"course": "Api",
+	"datainfo": [
+		{
+			"Country": "India",
+			"Destinations": "85",
+			"URL": "https:\\/\\/en.wikipedia.org\\/wiki\\/Air_India",
+			"flightName": "AirIndia",
+			"id": 845
+		},
+		{
+			"Country": "India",
+			"Destinations": "85",
+			"URL": "https:\\/\\/en.wikipedia.org\\/wiki\\/Air_India",
+			"flightName": "AirIndia",
+			"id": 845
+		},
+		{
+			"Country": "India",
+			"Destinations": "85",
+			"URL": "https:\\/\\/en.wikipedia.org\\/wiki\\/Air_India",
+			"flightName": "AirIndia",
+			"id": 845
+		},
+		{
+			"Country": "India",
+			"Destinations": "85",
+			"URL": "https:\\/\\/en.wikipedia.org\\/wiki\\/Air_India",
+			"flightName": "AirIndia",
+			"id": 845
+		}
+	],
+	"email": "khan@gamil.com",
+	"name": "khan",
+	"support": {
+		"text": "For Joining Automation Course, Please Contact-Velmurugan 9944152058",
+		"url": "https:\\/\\/www.omrbranch.com"
+	}
+}

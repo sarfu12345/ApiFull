@@ -1,0 +1,40 @@
+{
+	"course": "API",
+	"data": [
+		{
+			"Country": "India",
+			"Destinations": "85",
+			"URl": "https://www.omrbranch.com",
+			"flightName": "AirIndia",
+			"id": 845
+		},
+		{
+			"Country": "USA",
+			"Destinations": "96",
+			"URl": "https://www.omrbranch.com",
+			"flightName": "UsaAirLines",
+			"id": 845
+		},
+		{
+			"Country": "Dubai",
+			"Destinations": "23",
+			"URl": "https://www.omrbranch.com",
+			"flightName": "DubaiEmriates",
+			"id": 845
+		},
+		{
+			"Country": "Koria",
+			"Destinations": "98",
+			"URl": "https://www.omrbranch.com",
+			"flightName": "AirKoria",
+			"id": 845
+		}
+	],
+	"email": "sarfu@gmal.com",
+	"name": "sarfu",
+	"phone": 9951066978,
+	"support": {
+		"URl": "https:\\\\/\\\\/www.omrbranch.com",
+		"text": "For Joining Automation Course, Please Contact-Velmurugan 9944152058"
+	}
+}
